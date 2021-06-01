@@ -28,6 +28,6 @@ if pergunta == 's':
         resposta = verificacao()
 
 else:
-        print("sua resposta não foi entendida\nresponda apenas com s (sim) ou n (não)
+        print("sua resposta não foi entendida\nresponda apenas com s (sim) ou n (não)")
         time.sleep(6)
         comeco()
