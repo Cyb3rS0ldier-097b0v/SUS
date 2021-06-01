@@ -1,2 +1,6 @@
+
+          ESSE SCRIPT SÓ FUNCIONA NO TERMUX
+ NÃO FUNCIONA NO USERLAND E NO NETHUNTER ROOTLESS
+
 No começo vai dar um erro se você quiser instalar
 O necessário, mas vai tar ok, é só dps escrever "jt"
