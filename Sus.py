@@ -14,7 +14,7 @@ def susNormal():
 
 
 def instalacao():
-     print("voce ja tem você já tem instalado o termux-api no seu termux?\nse não, deseja instalar? [s/jt (ja tenho)/n]")                       >
+     print("voce ja tem você já tem instalado o termux-api no seu termux?\nse não, deseja instalar? [s/jt (ja tenho)/n]")
      pergunta1 = input(">>> ")
 
 
@@ -42,7 +42,7 @@ if pergunta1 == 'jt':
 
 
 else:
-        print("sua resposta não foi entendida\nresponda apenas com S para sim, N para nao e ja tenho para se voce ja                        >
+        print("sua resposta não foi entendida\nresponda apenas com S para sim, N para nao e jt para se voce ja tem")
         time.sleep(9)
         os.system("clear")
         instalacao()
